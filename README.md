@@ -1,6 +1,6 @@
 # Village-Grievance-Management-System
- Developed a web-based application enabling villagers to submit grievances online and track  their status, improving transparency and efficiency in grievance handling.Developed by using Python Django Framework
 
+ 
 ## About
 The Village Grievance Management System (VGMS) is a web-based application that allows villagers to submit grievances, track and resolve complaints online. It enables communication between villagers and local authorities, fostering transparency and efficient grievance resolution. The system covers issues like infrastructure, services, and administration, providing real-time updates and data analysis to enhance governance and community satisfaction.
 
